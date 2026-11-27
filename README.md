@@ -12,9 +12,7 @@ network services, Linux privilege escalation, Windows & Active Directory.
 | 01 | Network Services | FTP, SMB, Telnet enumeration | [link](./tryhackme/01-network-services.md) |
 
 ## HackTheBox — Starting Point
-| Tier | Machine | Vector | Notes |
-|------|---------|--------|-------|
-| 0 | Meow | Telnet, blank root password | [link](./hackthebox/starting-point/tier0-meow.md) |
+*In progress — Tier 0 write-ups coming soon.*
 
 ## Methodology
 1. Enumerate before exploiting — always
