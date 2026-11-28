@@ -1,4 +1,4 @@
-# Security Write-ups — TryHackMe & HackTheBox
+# Security Write-ups — TryHackMe, PortSwigger & HackTheBox
 
 Hands-on notes from my penetration testing practice. Goal: document the reasoning,
 not just the commands.
